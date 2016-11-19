@@ -9,5 +9,9 @@ This is a sample hello-world project with angular using Jasmine and Karma for un
 
 # Running
 
-1. Open `app/index.html` to run the angular app
-2. In command prompt, do `karma start helloWorld.conf.js` for running tests
+1. In command prompt, do `npm start` to start web server
+2. Go to `http://localhost:8080` to run the app
+
+# Testing
+
+1. Do `karma start helloWorld.conf.js` for unit tests.
