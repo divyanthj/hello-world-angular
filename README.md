@@ -1,6 +1,6 @@
 # Introduction
 
-This is a sample hello-world project with angular using Jasmine and Karma for unit testing
+This is a sample hello-world project with angular using Jasmine and Karma for unit testing and protractor for end to end testing.
 
 # Installation
 
