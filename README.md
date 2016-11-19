@@ -16,5 +16,6 @@ This is a sample hello-world project with angular using Jasmine and Karma for un
 
 1. For unit tests, do `karma start helloWorld.conf.js`
 2. For end-to-end tests with protractor
-    1. Make sure your web server is running with `npm start`
-    2. Run tests with `npm test`
+    1. Be sure protractor is installed globally. Do `npm install protractor -g`
+    2. Make sure your web server is running with `npm start`
+    3. Run tests with `npm test`
